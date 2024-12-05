@@ -214,3 +214,6 @@ tags
 .task
 
 # End of https://www.toptal.com/developers/gitignore/api/node,astro,go,vim,visualstudiocode
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
